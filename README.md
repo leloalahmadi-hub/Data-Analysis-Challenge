@@ -18,3 +18,7 @@ During the data cleaning process, I addressed several data quality issues to ens
 * ## 📝 How to use
 1. Clone this repository.
 2. Open the `Data_Analysis_Challenge.ipynb` file in your Jupyter environment.
+
+## 📂 Project Files
+* `Data_Analysis_Challenge.ipynb`: The Jupyter Notebook containing the full code and analysis steps.
+* `cleaning_challenge.csv`: The raw dataset used for this project.
